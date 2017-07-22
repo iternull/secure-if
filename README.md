@@ -31,7 +31,7 @@ su -c 'echo 1 > /sys/devices/virtual/android_usb/android0/enable'    // 打开 U
 本项目使用 Android Studio 开发，目前还存在不少的 bug ，特别是控制电源连接的功能只支持部分安卓手机。
 以及会受其他程序的影响导致已经关闭的选项被其他程序调用时打开。
 
-另外还提供了一个原始的 [Shell 脚本](others/susb)，供命令行界面下使用。
+另外还提供了一个原始的 [Shell 脚本](susb)，供命令行界面下使用。
 
 ## 下载
 
