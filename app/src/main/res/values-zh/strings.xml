@@ -18,16 +18,26 @@
     <string name="usb_port_is_enabled">USB 接口已启用</string>
     <string name="text_about">
         <![CDATA[
-        这是一个用于控制 Android USB 接口安全的应用。<br /><br />
+        这是一个用于控制 Android USB 接口功能的应用，保护你的设备安全。<br /><br />
         <b>Version:</b> 1.0.1<br />
         <b>GitHub:</b> <a href="https://github.com/iternull/secure-if">Secure I/F</a><br />
         <b>License:</b> <a href="https://www.gnu.org/licenses/gpl-3.0.txt">GPL-3.0</a><br />
         ]]>
     </string>
-    <string name="text_donate">Donate</string>
+    <string name="text_donate">
+        <![CDATA[
+        <b>Paypal:</b><br />
+        <b>Alipay:</b><br />
+        谢谢你的捐赠<br />
+        ]]>
+    </string>
     <string name="text_help">
         <![CDATA[
-
+        <b>1. </b>本程序需要获取 Root 权限后才能正常使用。<br /><br />
+        <b>2. </b>USB 充电的开关功能只支持部分手机。<br /><br />
+        <b>3. </b>当遇到禁用 USB 接口功能后从新插拔后却失效了，你需要在未连接 USB 的情况下禁用掉再插入。<br /><br />
+        <b>4. </b>同时禁用充电功能和数据接口功能可以使 USB 口完全失效。<br /><br />
+        <b>5. </b>由于是通过修改 /sys/ 文件实现的功能，重启后会还原设置。<br /><br />
         ]]>
     </string>
 </resources>

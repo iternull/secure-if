@@ -16,6 +16,6 @@
     <string name="usb_port_is_disabled">USB Port is Disabled</string>
     <string name="usb_port_is_enabled">USB Port is Enabled</string>
     <string name="text_about">The is About</string>
-    <string name="text_donate">Donate</string>
+    <string name="text_donate">The is Donate</string>
     <string name="text_help">The is Help</string>
 </resources>
