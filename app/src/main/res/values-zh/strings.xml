@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Secure I/F</string>
+    <string name="action_about">关于</string>
+    <string name="action_add">添加</string>
+    <string name="action_cancel">取消</string>
+    <string name="action_close">关闭</string>
+    <string name="action_donate">捐赠</string>
+    <string name="action_help">帮助</string>
+    <string name="action_ok">好的</string>
+    <string name="action_open">打开</string>
+    <string name="action_settings">设置</string>
+    <string name="usb_charging">USB 充电</string>
+    <string name="usb_charging_is_disabled">USB 充电已禁用</string>
+    <string name="usb_charging_is_enabled">USB 充电已启用</string>
+    <string name="usb_connection">USB 数据连接</string>
+    <string name="usb_port_is_disabled">USB 接口已禁用</string>
+    <string name="usb_port_is_enabled">USB 接口已启用</string>
+    <string name="text_about">
+        <![CDATA[
+        这是一个用于控制 Android USB 接口安全的应用。<br /><br />
+        <b>Version:</b> 1.0.1<br />
+        <b>GitHub:</b> <a href="https://github.com/iternull/secure-if">Secure I/F</a><br />
+        <b>License:</b> <a href="https://www.gnu.org/licenses/gpl-3.0.txt">GPL-3.0</a><br />
+        ]]>
+    </string>
+    <string name="text_donate">Donate</string>
+    <string name="text_help">
+        <![CDATA[
+
+        ]]>
+    </string>
+</resources>

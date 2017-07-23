@@ -37,7 +37,7 @@
             android:paddingLeft="30dp"
             android:paddingRight="40dp"
             android:paddingTop="20dp"
-            android:text="@string/usb_data"
+            android:text="@string/usb_connection"
             android:textOff="@string/usb_port_is_enabled"
             android:textOn="@string/usb_port_is_disabled"
             tools:ignore="RtlHardcoded" />
