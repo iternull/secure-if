@@ -53,4 +53,4 @@ Download the [latest release](https://github.com/iternull/secure-if/releases).
 
 <(ﾟ´(｡｡)`ﾟ)>
 
-本项目代码以使用猪头猪血烧香做法，以保佑无 bug 出现。
+本项目代码以使用猪头猪血烧香做法，以保佑无 bug 出现。本项目经过道教全针、犹太结石以及清蒸认证，
