@@ -51,6 +51,8 @@ Download the [latest release](https://github.com/iternull/secure-if/releases).
 
 ## 许可
 
+This is a private project.
+
 > 弆珎媽白勺閞源滸坷
 
 ## 信仰
