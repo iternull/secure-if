@@ -15,7 +15,24 @@
     <string name="usb_connection">USB Connection</string>
     <string name="usb_port_is_disabled">USB Port is Disabled</string>
     <string name="usb_port_is_enabled">USB Port is Enabled</string>
-    <string name="text_about">The is About</string>
-    <string name="text_donate">The is Donate</string>
-    <string name="text_help">The is Help</string>
+    <string name="text_about">
+        <![CDATA[
+        This application for controlling the function of the Android USB interface to protect your device.<br /><br />
+        <b>Version:</b> 1.0.1<br />
+        <b>GitHub:</b> <a href="https://github.com/iternull/secure-if">Secure I/F</a><br />
+        <b>License:</b> <a href="https://www.iternull.com/licenses/">IterNull</a><br />
+        ]]>
+    </string>
+    <string name="text_donate">
+        <![CDATA[
+        <b>Paypal:</b><br />
+        <b>Alipay:</b><br />
+        Thank you for your donation.<br />
+        ]]>
+    </string>
+    <string name="text_help">
+        <![CDATA[
+        <b>1. </b>The is Help.<br /><br />
+        ]]>
+    </string>
 </resources>
