@@ -62,6 +62,8 @@ public class MainActivity extends AppCompatActivity {
 
         SwitchCharge = (Switch) findViewById(R.id.switch_usbcharge);
         SwitchConnection = (Switch) findViewById(R.id.switch_usbdata);
+        
+        iam 4444444444444433333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
 
         SwitchCharge.setOnClickListener(new View.OnClickListener() {
             @Override
